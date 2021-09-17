@@ -22,7 +22,9 @@ python3 bot.py
 
 <code>/start</code> - to start chat with the bot
 
-<code>/random</code> - to get a random movie
+<code>/abs_random</code> - to get a random movie
+
+<code>/good_random</code> - to get a good random movie. The good movie contains at least 4 of 6 fields
 
 
 ## Dataset

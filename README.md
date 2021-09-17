@@ -1,6 +1,6 @@
 # Random Film Bot
 
-Random Film Bot is a Python programm that will send you a random movie from OMDb (Open Movie Database) after sending command <code>/random</code> in Telegram
+Random Film Bot is a Python programm that will send you a random movie from OMDb (Open Movie Database) after sending command <code>/abs_random</code> or <code>/good_random</code> in Telegram
 
 ## Requirements
 
